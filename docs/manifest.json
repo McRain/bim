@@ -1,6 +1,7 @@
 {
-    "name": "Название приложения",
-    "short_name": "Краткое название",
+    "name": "Web IFC 3D viewer ",
+    "short_name": "IFC Viewer",
+    "description":"Iis an application for viewing IFC files in 3D, as well as the structure of the IFC file, with the ability to set the camera focus on individual elements, hide and show elements and groups.",
     "icons": [
       {
         "src": "/icon-192x192.png",
