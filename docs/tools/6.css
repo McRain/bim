@@ -1,0 +1,73 @@
+
+.options[data-v-89ad2608] {
+    display: flex;
+    align-items: center;
+}
+input[data-v-89ad2608] {
+    height: 1rem;
+    text-align: center;
+    max-width: 100%;
+}
+.buttons[data-v-89ad2608] {
+    display: flex;
+    flex-direction: column;
+}
+button[data-v-89ad2608] {
+    width: 2rem;
+    height: 50%;
+    padding: 0;
+    text-align: center;
+}
+  
+
+.card {
+&[data-v-9e0d538c] {
+    width: 100%;
+    margin-top: 10px;
+}
+.cardhead {
+&[data-v-9e0d538c] {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+}
+.title[data-v-9e0d538c] {
+            flex: 1;
+            width: 100%;
+            display: flex;
+            justify-content: end;
+            gap: 10px;
+            height: 1rem;
+}
+}
+.carddata {
+&[data-v-9e0d538c] {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        /* Ограничиваем ширину */
+        box-sizing: border-box;
+        padding: 1rem;
+        overflow: hidden;
+
+
+
+        /* Убираем выходы за пределы */
+}
+.cutterstate {
+&[data-v-9e0d538c] {
+            gap: 1rem;
+}
+.numblock[data-v-9e0d538c] {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(48px, 1fr));
+}
+}
+}
+}
+
+
+.panel-content[data-v-1e75e6bd] {
+    width: 100%;
+}
+

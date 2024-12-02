@@ -1,0 +1,112 @@
+{
+  "id": "bim.main",
+  "name": "bim.main",
+  "metaData": {
+    "name": "bim.main",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "0.0.1",
+      "buildName": "bimview.main"
+    },
+    "remoteEntry": {
+      "name": "",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "bim.main",
+    "pluginVersion": "0.7.7",
+    "publicPath": "/"
+  },
+  "shared": [
+    {
+      "singleton": true,
+      "requiredVersion": "^1.0.6",
+      "shareScope": "default",
+      "import": "@reneos/app",
+      "eager": true,
+      "shareKey": "@reneos/app",
+      "name": "@reneos/app",
+      "version": "1.0.6",
+      "id": "bim.main:@reneos/app",
+      "assets": {
+        "js": {
+          "async": [
+            "733.js",
+            "31.js"
+          ],
+          "sync": [
+            "main.js"
+          ]
+        },
+        "css": {
+          "async": [
+            "733.css"
+          ],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^0.0.1",
+      "shareScope": "default",
+      "import": "@reneos/webtools",
+      "eager": true,
+      "shareKey": "@reneos/webtools",
+      "name": "@reneos/webtools",
+      "version": "0.0.1",
+      "id": "bim.main:@reneos/webtools",
+      "assets": {
+        "js": {
+          "async": [
+            "733.js",
+            "31.js"
+          ],
+          "sync": [
+            "main.js"
+          ]
+        },
+        "css": {
+          "async": [
+            "733.css"
+          ],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^3.5.13",
+      "shareScope": "default",
+      "import": "vue",
+      "shareKey": "vue",
+      "name": "vue",
+      "version": "3.5.13",
+      "eager": false,
+      "id": "bim.main:vue",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "31.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    }
+  ],
+  "remotes": [],
+  "exposes": []
+}

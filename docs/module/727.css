@@ -1,0 +1,23 @@
+
+/* Стили для компонента */
+.upload-panel {
+&[data-v-44f951e6] {
+  width: 100%;
+  height: 128px;
+  border: 2px dashed #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 256px;
+}
+.upload-text {
+.file-chooser[data-v-44f951e6] {
+      font-weight: bold;
+      cursor: pointer;
+}
+}
+}
+input[data-v-44f951e6] {
+  margin-bottom: 10px;
+}
+

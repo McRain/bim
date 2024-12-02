@@ -1,0 +1,98 @@
+{
+  "id": "bim.main",
+  "name": "bim.main",
+  "metaData": {
+    "name": "bim.main",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "0.0.1",
+      "buildName": "bimview.main"
+    },
+    "remoteEntry": {
+      "name": "",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "bim.main",
+    "pluginVersion": "0.7.7",
+    "publicPath": "/",
+    "prefetchInterface": false
+  },
+  "shared": [
+    {
+      "id": "bim.main:@reneos/app",
+      "name": "@reneos/app",
+      "version": "1.0.6",
+      "singleton": true,
+      "requiredVersion": "^1.0.6",
+      "assets": {
+        "js": {
+          "async": [
+            "733.js",
+            "31.js"
+          ],
+          "sync": [
+            "main.js"
+          ]
+        },
+        "css": {
+          "async": [
+            "733.css"
+          ],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "bim.main:@reneos/webtools",
+      "name": "@reneos/webtools",
+      "version": "0.0.1",
+      "singleton": true,
+      "requiredVersion": "^0.0.1",
+      "assets": {
+        "js": {
+          "async": [
+            "733.js",
+            "31.js"
+          ],
+          "sync": [
+            "main.js"
+          ]
+        },
+        "css": {
+          "async": [
+            "733.css"
+          ],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "bim.main:vue",
+      "name": "vue",
+      "version": "3.5.13",
+      "singleton": true,
+      "requiredVersion": "^3.5.13",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "31.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": []
+}
