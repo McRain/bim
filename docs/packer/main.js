@@ -20,7 +20,6 @@ class Packer {
         }
     }
     static BreakModel(model) {
-        console.log(model)
         const uids = Object.keys(model.elements)
         for(let i=0;i<uids.length;i++){
             const uid = uids[i]
@@ -59,9 +58,7 @@ class Packer {
 
 
 }
-console.log(self)
 const vals = WorkerMain.Register("packer", ({ method, ...args }) => {
-    console.log(method)
     if (method in Packer) {
         Packer[method](args,vals)
     }
