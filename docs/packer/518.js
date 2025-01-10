@@ -56,7 +56,7 @@ if (false) {}
 else {
   App.engine.post({
     type: "imports",
-    scripts: [`${window.location.href}pack/main.js`]
+    scripts: [`${window.location.href}packer/main.js`]
   })
 }
 
