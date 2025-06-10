@@ -4,7 +4,7 @@
 
 
 
-![Screenshot of a preview.](https://bim.reneos.com/screen.png)
+![Example.](https://s3.eu-west-1.amazonaws.com/3dbuilder.reneos.com/example1.png)
 
 ### Instructions
 
