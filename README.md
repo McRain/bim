@@ -26,7 +26,8 @@ To start working with a clean scene, simply use the "Clear" button at the bottom
 
 [Demo here](https://bim.reneos.com/)
 
-<video src="https://s3.eu-west-1.amazonaws.com/bim.reneos/example.mp4" width="320" height="240" controls></video>
+
+<video src="=example.mp4" width="320" height="240" controls></video>
 
 Mixture Variants:
 
