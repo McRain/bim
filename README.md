@@ -2,6 +2,8 @@
 
 BimViewer: Your Tool for Working with IFC Models
 
+![](https://s3.eu-west-1.amazonaws.com/bim.reneos/Generated+image+1.png)
+
 BimViewer is a powerful and intuitive application designed specifically for BIM users and design engineers. It allows you to easily view IFC files in 3D, explore their internal structure, and interact with model elements.
 
 Getting Started: Importing IFC
