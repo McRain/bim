@@ -26,6 +26,8 @@ Camera Focus: Instantly move the camera to selected elements or groups for a clo
 
 To start working with a clean scene, simply use the "Clear" button at the bottom of the interface.
 
+![Screenshot of a preview.](https://bim.reneos.com/screen2.png)
+
 [Demo here](https://bim.reneos.com/)
 
 [Video 1](https://s3.eu-west-1.amazonaws.com/bim.reneos/example.mp4)
